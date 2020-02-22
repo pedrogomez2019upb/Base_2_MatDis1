@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46663778-559d-41a4-844b-8444b6786405" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Base_-2_GomezPedro/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Base_-2_GomezPedro/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +44,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1580747830771</updated>
       <workItem from="1580747834297" duration="1089000" />
-      <workItem from="1582035028361" duration="28000" />
+      <workItem from="1582035028361" duration="2045000" />
+      <workItem from="1582407201195" duration="1673000" />
     </task>
     <servers />
   </component>
@@ -57,10 +70,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1580747835410">
+    <state x="458" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582039597089">
       <screen x="0" y="23" width="1440" height="852" />
     </state>
-    <state x="399" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.852@0.23.1440.852" timestamp="1580747835410" />
+    <state x="458" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.852@0.23.1440.852" timestamp="1582039597089" />
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1582413594050">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.852@0.23.1440.852" timestamp="1582413594050" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1582413594049">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.852@0.23.1440.852" timestamp="1582413594049" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1582413594048">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.852@0.23.1440.852" timestamp="1582413594048" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1582413594049">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.852@0.23.1440.852" timestamp="1582413594049" />
+    <state x="399" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1582407201467">
+      <screen x="0" y="23" width="1440" height="852" />
+    </state>
+    <state x="399" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.852@0.23.1440.852" timestamp="1582407201467" />
     <state x="114" y="71" key="new project wizard" timestamp="1580756809187">
       <screen x="0" y="23" width="1440" height="852" />
     </state>

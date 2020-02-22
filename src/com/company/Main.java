@@ -20,16 +20,16 @@ public class Main {
             String newNum = "";
             while (numRead != 0)
             {
-                int remainder = numRead % -2;
+                int module = numRead % -2;
                 numRead /= -2;
 
-                if (remainder < 0)
+                if (module < 0)
                 {
-                    remainder += (-(-2));
+                    module += (-(-2));
                     numRead += 1;
                 }
 
-                newNum = remainder + newNum;
+                newNum = module + newNum;
 
             }
             casesOutput += "Case " + (i+1) + ": " + newNum + "\n";

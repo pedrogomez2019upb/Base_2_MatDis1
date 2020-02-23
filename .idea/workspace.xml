@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46663778-559d-41a4-844b-8444b6786405" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Base_-2_GomezPedro/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Base_-2_GomezPedro/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Base_-2_GomezPedro/META-INF/Base_-2_GomezPedro.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1XIyJPFfjsER4dgPlVUl9TEeEUx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -62,6 +66,7 @@
       <workItem from="1580747834297" duration="1089000" />
       <workItem from="1582035028361" duration="2045000" />
       <workItem from="1582407201195" duration="1816000" />
+      <workItem from="1582493382815" duration="845000" />
     </task>
     <servers />
   </component>
@@ -73,25 +78,38 @@
       <screen x="0" y="23" width="1440" height="852" />
     </state>
     <state x="458" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.852@0.23.1440.852" timestamp="1582039597089" />
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1582413753891">
-      <screen x="0" y="23" width="1440" height="852" />
+    <state x="314" y="42" key="CommitChangelistDialog2" timestamp="1582496635617">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
+    <state x="314" y="42" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1582496635617" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1582496556092">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1582496556092" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.852@0.23.1440.852" timestamp="1582413753891" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1582413753890">
-      <screen x="0" y="23" width="1440" height="852" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center" timestamp="1582496556091">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1582496556091" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.852@0.23.1440.852" timestamp="1582413753890" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1582413753890">
-      <screen x="0" y="23" width="1440" height="852" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left" timestamp="1582496556091">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1582496556091" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.852@0.23.1440.852" timestamp="1582413753890" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1582413753891">
-      <screen x="0" y="23" width="1440" height="852" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right" timestamp="1582496556092">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1582496556092" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.852@0.23.1440.852" timestamp="1582413753891" />
-    <state x="399" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1582407201467">
-      <screen x="0" y="23" width="1440" height="852" />
+    <state x="349" y="140" key="NewModule_or_Project.wizard" timestamp="1582496432552">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
+    <state x="349" y="140" key="NewModule_or_Project.wizard/0.23.1440.833@0.23.1440.833" timestamp="1582496432552" />
+    <state x="399" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1582493382799">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="399" y="275" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1582493382799" />
     <state x="399" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.852@0.23.1440.852" timestamp="1582407201467" />
     <state x="114" y="71" key="new project wizard" timestamp="1580756809187">
       <screen x="0" y="23" width="1440" height="852" />

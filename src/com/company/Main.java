@@ -14,6 +14,7 @@ public class Main {
         String casesOutput="";
         Scanner sc= new Scanner(System.in);
         int numCases=0;
+        //BigInteger numCases = new BigInteger("0");
         numCases=sc.nextInt();
         for (int i=0;i<numCases;i++){
             int numRead=sc.nextInt();

@@ -20,19 +20,23 @@ public class Main {
         for (int i=0;i<numCases;i++){
             int numRead=sc.nextInt();
             String newNum = "";
-            while (numRead != 0)
-            {
-                int module = numRead % -2;
-                numRead /= -2;
+            if (numRead!=0){
 
-                if (module < 0)
-                {
-                    module += (-(-2));
-                    numRead += 1;
+                while (numRead != 0) {
+                    int module = numRead % -2;
+                    numRead /= -2;
+
+                    if (module < 0) {
+                        module += (-(-2));
+                        numRead += 1;
+                    }
+
+                    newNum = module + newNum;
+
                 }
-
-                newNum = module + newNum;
-
+            }
+            else{
+                newNum="0";
             }
             casesOutput += "Case " + (i+1) + ": " + newNum + "\n";
         }

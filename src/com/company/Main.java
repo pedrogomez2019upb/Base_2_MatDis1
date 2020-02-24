@@ -27,7 +27,7 @@ public class Main {
                     numRead /= -2;
 
                     if (module < 0) {
-                        module += (-(-2));
+                        module += (2);
                         numRead += 1;
                     }
 
